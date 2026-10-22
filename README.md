@@ -5,7 +5,7 @@ A short hands-on introduction to the tools used for collaborative scientific cod
 ## Notebook
 
 - [Read the notebook](IntroductionToCollaborativeCoding.ipynb) (rendered by GitHub)
-- Run it online: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USER/REPO/blob/main/IntroductionToCollaborativeCoding.ipynb)
+- Run it online: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dario-Maglio/CollabCoding/blob/main/IntroductionToCollaborativeCoding.ipynb)
 
 ## Contents
 
