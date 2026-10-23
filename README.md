@@ -10,9 +10,11 @@ A short hands-on introduction to the tools used for collaborative scientific cod
 ## Contents
 
 - Linux, Bash and the terminal
-- Processes, scripts and environments
-- Python and conda environments
+- Processes and scripts
+- Conda environments
 - Git and GitHub
+- Python basics
+- Machine Learning
 
 ## Getting started
 
