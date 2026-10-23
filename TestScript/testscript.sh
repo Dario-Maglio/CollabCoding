@@ -4,7 +4,7 @@ echo "101 202 303" > numbers.txt
 echo "Files created!"
 variable="Now I remember!"
 
-echo -e "\n--------------------"
+echo -e "--------------------"
 for file in ./*.txt; do
   if [ -f  "$file" ]; then
     if grep -q "Bash" "$file"; then
@@ -16,4 +16,4 @@ for file in ./*.txt; do
     echo "--------------------"
   fi
 done
-echo -e "\nScript executed!\n"
+echo -e "Script executed!"
