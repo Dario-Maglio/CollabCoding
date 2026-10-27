@@ -6,6 +6,8 @@ A short hands-on introduction to the tools used for collaborative scientific cod
 
 - [Read the notebook](IntroductionToCollaborativeCoding.ipynb) (rendered by GitHub)
 - Run it online: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dario-Maglio/CollabCoding/blob/main/IntroductionToCollaborativeCoding.ipynb)
+- Run the Python example: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dario-Maglio/CollabCoding/blob/main/PythonExample_ripartizione_fatture.ipynb)
+
 
 ## Contents
 
