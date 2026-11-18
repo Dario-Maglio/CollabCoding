@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 echo "Linux Bash Scripting" > words.txt
 echo "101 202 303" > numbers.txt
 echo "Files created!"
